@@ -2,7 +2,43 @@
     "allowed_avatars": [
         {
             "name": "Nemesis_Full_ver_1.1.1",
-            "hash": "d402dbc381f4e20352e250ecf533d91f410b42598df4e396f1768dfc048d1d5a"
+            "hash": "d402dbc381f4e20352e250ecf533d91f410b42598df4e396f1768dfc048d1d5a",
+            "product_id": "5986971"
+        },
+        {
+            "name": "ELusion_Full_Ver1.2.9",
+            "hash": "a721ca552fcb455a1bec58ed53a7dd68a91c1f7f4b3e2520a4f75cc86bd7d234",
+            "product_id": "6663666"
+        },
+        {
+            "name": "Chocolat_v1.02",
+            "hash": "b3e0d6f22bd80a01bf068bdfd84a3b4db86a2f3a676cdce1c04c3e9d63033e99",
+            "product_id": "6405390"
+        },
+        {
+            "name": "Milfy 1.5.0",
+            "hash": "1972008e265ac4635c113c34419ded8c8b1eea73c78b0432825783d3f8e3fdb9",
+            "product_id": "6571299"
+        },
+        {
+            "name": "rurune 1.1.3",
+            "hash": "c373e05455c5862a727999335b317cfd3177c7e9b0769d7ba5ce38be9a435080",
+            "product_id": "5957830"
+        },
+        {
+            "name": "ririka 1.0.9",
+            "hash": "e8bf2f8efc36e8d3b557fbb08f592dcdaa324c0a284be6d868739d6d4a873281",
+            "product_id": "6373683"
+        },
+        {
+            "name": "mao 1.0.9",
+            "hash": "ac42e38781cf1cb3a1f7b355fae41c1b65a01f380879596ae6ca666eb09f89c0",
+            "product_id": "6846646"
+        },
+        {
+            "name": "mizuki 2.07",
+            "hash": "2cb91c287958aeaa1ce253b9483e057a0f77422eedbe5778d9ea36ea5ef65145",
+            "product_id": "5132797"
         }
     ]
 }
